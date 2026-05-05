@@ -1,0 +1,86 @@
+{
+  "business": {
+    "name": "Hotel Perla Benidorm",
+    "tagline": "Tu oasis de confort en el corazón de Benidorm.",
+    "description": "Descubre el refugio perfecto para tus vacaciones en el Mediterráneo. Con una ubicación inmejorable y un servicio excepcional, te garantizamos una estancia memorable.",
+    "phone": "",
+    "address": "C. Lepanto, 18, 03503 Benidorm, Alicante, España",
+    "email": "reservas@hotelperlabenidorm.es",
+    "rating": 4,
+    "reviewCount": 218,
+    "hours": ["Recepción 24 horas", "Check-in: Desde 15:00", "Check-out: Hasta 12:00"]
+  },
+  "theme": {
+    "primary": "#0D47A1",
+    "secondary": "#1A202C",
+    "accent": "#F9A825",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "Vive la experiencia definitiva de Benidorm.",
+    "subheadline": "Disfruta de nuestra privilegiada ubicación, modernas instalaciones y una atmósfera de relax total a solo pasos de la playa.",
+    "cta1": { "text": "Reservar Ahora", "href": "#contact" },
+    "cta2": { "text": "Ver Servicios", "href": "#services" },
+    "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80"
+  },
+  "services": [
+    { 
+      "icon": "🛏️", 
+      "title": "Habitaciones Modernas", 
+      "description": "Descansa en nuestras habitaciones completamente equipadas, diseñadas con un estilo contemporáneo para ofrecerte el máximo confort y funcionalidad." 
+    },
+    { 
+      "icon": "☀️", 
+      "title": "Piscina y Solárium", 
+      "description": "Sumérgete en nuestra magnífica piscina exterior o relájate en la zona de solárium. El lugar perfecto para desconectar y disfrutar del clima." 
+    },
+    { 
+      "icon": "📍", 
+      "title": "Ubicación Inmejorable", 
+      "description": "Situados en el corazón de Benidorm, a pocos minutos a pie de la Playa de Levante y de las principales zonas de ocio y restauración." 
+    },
+    { 
+      "icon": "🍴", 
+      "title": "Bar & Restaurante", 
+      "description": "Saborea la gastronomía local en nuestro restaurante y disfruta de tu bebida favorita en nuestro bar junto a la piscina. Una delicia para tus sentidos." 
+    }
+  ],
+  "about": {
+    "title": "Donde la Hospitalidad Mediterránea Cobra Vida",
+    "text": "En Hotel Perla Benidorm, nuestra misión es convertir tu estancia en una experiencia inolvidable. Desde nuestra fundación, nos hemos dedicado a combinar la comodidad de un hotel moderno con la calidez de un trato cercano y familiar, reflejando el auténtico espíritu acogedor de la Costa Blanca.\n\nNuestro equipo de profesionales se esfuerza cada día por cuidar cada detalle, asegurando que te sientas como en casa. Creemos que unas vacaciones perfectas se componen de pequeños momentos de felicidad, y estamos aquí para ayudarte a crearlos, ya sea recomendándote el mejor rincón de la ciudad o sirviéndote tu cóctel preferido junto a la piscina.",
+    "imageUrl": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=1200&q=80", "alt": "Desayuno saludable servido al aire libre junto a la piscina del hotel" },
+    { "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80", "alt": "Luminoso y moderno lobby del hotel con cómodos asientos" },
+    { "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&q=80", "alt": "Vistas panorámicas del skyline de la ciudad desde una de las suites" },
+    { "url": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=1200&q=80", "alt": "Espacio exterior del hotel con arquitectura moderna y zonas verdes" }
+  ],
+  "testimonials": [
+    { 
+      "name": "Carlos Jiménez", 
+      "stars": 5, 
+      "text": "¡Ubicación perfecta y personal encantador! La piscina es una maravilla y las habitaciones muy cómodas. Repetiremos sin dudarlo." 
+    },
+    { 
+      "name": "Elena Navarro", 
+      "stars": 5, 
+      "text": "Un hotel fantástico para disfrutar de Benidorm. Está cerca de todo pero en una calle tranquila. Limpieza impecable y trato excelente." 
+    },
+    { 
+      "name": "Marcos Alonso", 
+      "stars": 4, 
+      "text": "Buena experiencia general. El hotel está muy bien situado y las instalaciones son correctas. El desayuno podría tener más variedad, pero todo de buena calidad." 
+    }
+  ],
+  "contact": {
+    "title": "¿Listo para Tu Escapada a Benidorm?",
+    "subtitle": "Consulta nuestras tarifas y disponibilidad. Nuestro equipo está listo para ayudarte a planificar unas vacaciones perfectas.",
+    "whatsappNumber": "",
+    "showMap": true,
+    "mapQuery": "Hotel Perla Benidorm, C. Lepanto, 18, 03503 Benidorm, Alicante, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Hotel Perla Benidorm. Todos los derechos reservados."
+  }
+}
